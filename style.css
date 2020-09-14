@@ -1,0 +1,109 @@
+.container{
+    display: flex;
+}
+.row{
+    flex: 1;
+}
+.box-wraper{
+    display: flex;
+    
+}
+.box-inner{
+    flex: 1;
+    margin:4px;
+    height: 200px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    
+    
+}
+.box1{
+    background-color:rgb(43, 23, 23);
+    color: white;
+}
+.box2{
+    background-color:rgb(54, 48, 48);
+    color: rgb(165, 0, 91);
+}
+.box3{
+    background-color:rgb(63, 50, 50);
+    color: rgb(5, 4, 4);
+}
+.box4{
+    background-color:rgb(112, 111, 111);
+    color: rgb(219, 12, 12);
+}
+.box4{
+    background-color:rgb(202, 201, 201);
+    color: rgb(128, 0, 0);
+}
+.box5{
+    background-color:rgb(153, 123, 123);
+    color: white;
+}
+.box6{
+    background-color:rgb(240, 171, 171);
+    color: white;
+}
+.box7{
+    background-color:rgb(153, 76, 76);
+    color: rgb(5, 4, 4);
+}
+.box8{
+    background-color:rgb(243, 91, 91);
+    color: white;
+}
+.box9{
+    background-color:rgb(182, 145, 145);
+    color: white;
+}
+.box10{
+    background-color:rgb(108, 142, 187);
+    color: rgb(0, 0, 0);
+}
+.box11{
+    background-color:rgb(92, 104, 121);
+    color: rgb(122, 3, 3);
+}
+.box12{
+    background-color:rgb(122, 240, 122);
+    color: rgb(197, 161, 0);
+}
+.box13{
+    background-color:rgb(187, 174, 140);
+    color: white;
+}
+.box14{
+    background-color:rgb(153, 130, 97);
+    color: white;
+}
+.box15{
+    background-color:rgb(57, 134, 128);
+    color: white;
+}
+
+.box16{
+    background-color:rgb(81, 119, 83);
+    color: white;
+}
+.box17{
+    background-color:rgb(117, 151, 130);
+    color: white;
+}
+.box18{
+    background-color:rgb(80, 110, 114);
+    color: white;
+}
+.box19{
+    background-color:rgb(105, 161, 175);
+    color: white;
+}
+.box20{
+    background-color:rgb(24, 64, 117);
+    color: white;
+}
+.box21{
+    background-color:rgb(52, 72, 97);
+    color: white;
+}
